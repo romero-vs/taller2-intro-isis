@@ -1,1 +1,33 @@
+# Archivos compilados
+*.class
 
+# Archivos de empaquetado
+*.jar
+*.war
+*.ear
+
+# Carpetas de compilación (Maven/Gradle)
+target/
+build/
+bin/
+out/
+
+# Archivos de IDE - Eclipse
+.classpath
+.project
+.settings/
+
+# Archivos de IDE - IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Archivos de IDE - NetBeans
+nbproject/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de log
+*.log
