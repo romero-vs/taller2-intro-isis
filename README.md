@@ -36,5 +36,3 @@ Es una licencia permisiva similar a la MIT, pero incluye explícitamente una con
 
 # GNU GPL (General Public License, v3):
 Es una licencia de tipo copyleft. Exige que cualquier código modificado o trabajo derivado también deba distribuirse bajo los mismos términos de código abierto.
-
-# LAS AMO CHICAS SON MIS MEJORES AMIGAS LAS EXTRAÑO MUCHOOOOOOOOOOOOO
