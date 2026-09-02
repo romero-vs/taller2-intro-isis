@@ -34,5 +34,5 @@ Es muy breve y permisiva. Permite usar, modificar, distribuir y vender el softwa
 # Apache 2.0: 
 Es una licencia permisiva similar a la MIT, pero incluye explícitamente una concesión de derechos de patente y protege al usuario frente a demandas sobre patentes del creador original.
 
-# GNU GPL (General Public License, v3 o v2):
+# GNU GPL (General Public License, v3):
 Es una licencia de tipo copyleft. Exige que cualquier código modificado o trabajo derivado también deba distribuirse bajo los mismos términos de código abierto.
